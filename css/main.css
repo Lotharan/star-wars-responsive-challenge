@@ -1,18 +1,17 @@
 main .row {
 	margin-bottom: 20px;
 }
-.box {
-	height: 200px;
-	padding-top: 30px;
-}
 	header {
 		background-color:orange;
+		padding-top: 10px;
 	}
 img {
 	height: 100%;
 	width: 100%;
 }
 .container {
-	border: 1px solid grey;
-	border-top: 0;
+	border: 1px solid lightgrey;
+}
+.textbox {
+	padding: 10px 20px 20px;
 }

@@ -33,7 +33,11 @@
 .col-12 {
 	width: 100%;
 }
-
+@media only screen and (max-width: 640px) {
+	.col-4 {
+		margin-bottom: 10px;
+	}
+}
 
 /* Non-mobile, grid */
 @media only screen and (min-width: 640px) {
@@ -42,6 +46,6 @@
 	width: 33.33%;
 }
 .col-12 {
-	width: 100%
+	width: 100%;
 	}
-
+}
