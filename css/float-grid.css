@@ -30,6 +30,9 @@
 .col-4{
 	width: 100%;
 }
+.col-12 {
+	width: 100%;
+}
 
 
 /* Non-mobile, grid */
@@ -38,4 +41,7 @@
 .col-4 {
 	width: 33.33%;
 }
+.col-12 {
+	width: 100%
+	}
 
